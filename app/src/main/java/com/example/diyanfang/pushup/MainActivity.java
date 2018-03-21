@@ -19,4 +19,11 @@ public class MainActivity extends AppCompatActivity {
 
         int iii = i + ii;
     }
+
+
+    public void NewMethod(){
+
+        int i = 2 + 2;
+        String test = "Test";
+    }
 }
