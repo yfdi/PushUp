@@ -24,7 +24,10 @@ public class MainActivity extends AppCompatActivity {
     public void NewMethod(){
 
         int i = 3 + 3;
+        int ii = 4 + 4;
+
         String test = "Test";
         boolean True = false;
     }
+
 }
